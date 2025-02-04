@@ -85,7 +85,7 @@
 }
 
 .british:hover {
-  fill: red !important;
+  fill: #02D3AB !important;
   font-size: 23px !important;
   
 }
