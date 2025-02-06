@@ -1,0 +1,916 @@
+<div class="svg-container">
+<svg class="responsive-svg"
+    id="Layer_1"
+    data-name="Layer 1"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 1760.77 1370.38"
+>
+    <defs>
+        <style>.cls-11,
+.cls-14,
+.cls-3,
+.cls-6,
+.cls-7,
+.cls-9 {
+    fill: #606060
+}
+
+.cls-3,
+.cls-6,
+.cls-7,
+.cls-9 {
+    font-family: SFProDisplay-Bold, &quot;
+    SF Pro Display&quot;
+    ;
+    font-weight: 700
+}
+
+.cls-3 {
+    font-size: 15.8px
+}
+
+.cls-16 {
+    letter-spacing: -.02em
+}
+
+.cls-20,
+.cls-24,
+.cls-30 {
+    letter-spacing: 0
+}
+
+.cls-14,
+.cls-33,
+.cls-34,
+.cls-35 {
+    font-family: SFProDisplay-Regular, &quot;
+    SF Pro Display&quot;
+}
+
+.cls-33 {
+    font-size: 8.12px
+}
+
+.cls-36 {
+    letter-spacing: -.01em
+}
+
+.cls-39 {
+    letter-spacing: -.11em
+}
+
+.cls-6 {
+    font-size: 22.88px
+}
+
+.cls-43 {
+    letter-spacing: -.01em
+}
+
+.cls-7 {
+    font-size: 18.13px
+}
+
+.cls-48 {
+    letter-spacing: -.01em
+}
+
+.cls-14,
+.cls-34 {
+    font-size: 8.12px
+}
+
+.cls-50,
+.cls-51 {
+    stroke: #fff;
+    stroke-linecap: round;
+    stroke-linejoin: round
+}
+
+.cls-52,
+.cls-54,
+.cls-55 {
+    letter-spacing: 0
+}
+
+.cls-59 {
+    letter-spacing: -.01em
+}
+
+.cls-60 {
+    stroke-dasharray: 0 0 1.87 1.87
+}
+
+.cls-50,
+.cls-60,
+.cls-61 {
+    fill: none
+}
+
+.cls-60,
+.cls-61 {
+    stroke: #606060;
+    stroke-miterlimit: 10;
+    stroke-width: .5px
+}
+
+.cls-62,
+.cls-63 {
+    letter-spacing: -.02em
+}
+
+.cls-66 {
+    letter-spacing: 0
+}
+
+.cls-50 {
+    stroke-width: 2px
+}
+
+.cls-35 {
+    font-size: 12.17px
+}
+
+.cls-9 {
+    font-size: 17.27px
+}
+
+.cls-72 {
+    letter-spacing: -.02em
+}
+
+.cls-75,
+.cls-76,
+.cls-79 {
+    letter-spacing: 0
+}
+
+.cls-82 {
+    letter-spacing: -.02em
+}
+
+.cls-51 {
+    fill: #c6c6c6
+}
+.british {
+  fill: black;
+  transition: font-size 0.5s ease-in-out, fill 0.5s ease-in-out;
+}
+
+.british:hover {
+  fill:rgb(3, 167, 137) !important;
+  font-size: 18px !important;
+  font-weight:400 !important;
+  
+}
+.svg-container {
+    width: 100%;
+    max-width: 1000px;  /* Adjust max width for larger screens */
+    margin: auto;
+}
+
+.responsive-svg {
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width: 768px) {
+    .responsive-svg {
+        max-height: 400px;  /* Adjust for tablets */
+    }
+}
+
+@media (max-width: 480px) {
+    .responsive-svg {
+        max-height: 300px;  /* Adjust for mobile screens */
+    }
+}
+
+</style>
+    </defs>
+    <rect
+        width="1760.77"
+        height="1370.38"
+        rx="57.35"
+        ry="57.35"
+        style="fill: #fff"
+    />
+    <path
+        class="cls-51"
+        d="M1559.23 548v22.15l-1.16 3.5-17.49 1.55-12.05.2-10.88 5.05-9.91 4.66-1.36-3.69 6.02-3.89-1.55-3.49 1.75-27.79zm29.54-40.62-1.94 8.16-3.11-.77-10.69 6.99-32.26-.97-1.75-8.74 5.64-25.85 8.36-27.4 11.46-6.22 1.94-11.27 1.17-8.94 4.27-10.3 7.19-.97 3.11 73.26z"
+    />
+    <path
+        class="cls-51"
+        d="m1693.51 438.01-4.86 7.19-4.47-1.55-2.33 4.47s-10.3 2.33-10.3 1.17c-.19-1.36-7.97 7.97-7.97 7.97l-3.69-4.27-7.77 2.53-4.08 6.22-4.08-3.11.19-3.69-2.72-1.94-11.85 21.18-2.92-2.91-5.63 6.02-3.5.19-4.66 3.3-3.11-2.92-4.86 4.28-3.3 7.97-4.47 4.66-3.89 7.58-4.47 5.05-6.61-13.02-3.11-73.26 2.72-1.94 4.28 1.94.39-4.28 4.66-.19-1.17-6.22 7.38-6.22 4.28-6.61-.39-7.97 6.22-13.21 1.94-11.66 20.99-30.7 5.05.97.19 5.83 4.47 4.08 17.68-7.38 12.82 12.05.19 55.58 10.3 4.08.19 8.36-1.17 3.5 4.08 5.83 3.5-1.75 5.83 12.83Zm-277.3 224.44-2.33 2.92-2.72-5.06 2.14-2.33zm-22.35-15.93-2.72 6.6-13.79-11.46-3.89 13.41-10.49 9.91-4.08-1.17-7.78 14.38-10.49-5.05-17.88 32.45-6.41 8.55-22.93 5.64-8.94 1.36-6.41-4.28-3.69-6.8-6.03-6.8-9.71-13.02v-11.08l7.96-3.3 7.78-17.88 5.24 2.14 3.89-10.3 6.02-5.83h1.95l15.35-9.72 6.22-23.9-.78-10.3 4.08-1.55v33.81h28.95l-.19 18.46 11.66-9.71 3.5.38 4.47-6.02 6.8 3.5 8.16-4.47 5.25.39 5.83 1.55zm74.24 31.09-17.69.19-2.13-45.47 1.94-3.3 3.3-1.94 5.05 1.94-5.05 6.41 1.56 7.39 4.08 6.6 1.94 10.88 6.41 5.25z"
+    />
+    <path
+        class="cls-51"
+        d="m1490.64 604.16 8.35 3.49-2.13 14.19-6.61 16.71-10.11 11.08-4.46 9.13-4.67 1.94 1.56-8.35-6.81-1.17-3.69-4.66-6.6-6.03 1.36-7.77 1.74-3.69 10.5-6.8 8.55-6.03-12.83-16.9 3.69-9.72-2.13-3.3 12.24-13.8 21.96 13.41-2.92 8.35-6.8 6.03zM872.11 491.45h-4.08l3.69 13.02-4.67 14.57 5.06 9.72-13.8-8.55-14.19-6.61-12.24 2.72-5.83.78-13.02-6.61H660.88l-.2-77.53h.78l-.19-37.31h207.92l-8.35 12.63 11.27 13.79zm206.76 497.08-3.31 6.02-5.24 1.36.19-3.69-14.18-9.13-6.03-2.73-.58 7.97-4.47 2.92-1.56-4.08-5.83-1.36-6.99 6.02-12.05-3.3-5.25-2.14 5.25-1.55-1.36-7-10.49-5.05-11.86-3.11-3.69 5.63-8.94 1.56-21.37-6.8-17.88 2.72 3.3-9.72 1.36-17.29 6.03-14.77-14.19-32.07-.58-2.33.19-31.67h80.06v11.46l7 10.69-2.92 5.83-12.43 21.96-5.25 16.13h53.63l-3.1 10.3 7.77 16.12-5.25 7.78 3.11.39 4.28-3.89 3.3 4.28-3.5 6.8-6.61 2.52 6.03 6.22 10.1 4.28zM923.21 653.9v75.2H717.04l-.2-106.87h186.94l8.75 3.49 3.11 4.47-6.22 8.36z"
+    />
+    <path
+        class="cls-51"
+        d="M903.78 622.23H716.84l-.19-36.73h-55.58l-.19-75.01h152.15l13.02 6.61 5.83-.78 12.24-2.72 14.19 6.61 13.8 8.55 11.27 33.81 7.77 37.7z"
+    />
+    <path
+        class="cls-51"
+        d="m1075.76 729.69-.97 10.88-5.06 1.55-4.66 4.47-5.44 17.3-18.07.39 8.55-10.3-3.5-7.39h-123.4V653.9l-13.79-15.35 6.22-8.36-3.11-4.47-8.75-3.49-12.63-21.96 109.6-.78 10.69 8.55.19 19.05 12.83 16.32 11.07 16.13 12.44 1.75-6.61 21.95 20.41 20.21 4.47 16.72z"
+    />
+    <path
+        class="cls-51"
+        d="m1059.63 763.89-16.13 34.2-9.52 18.07-14.19 27.98-.39 20.8h-80.06l-.19-18.08-12.24-3.69-3.7-96.58h123.4l3.5 7.39-8.55 10.3z"
+    />
+    <path
+        class="cls-51"
+        d="m1105.29 801.2-8.74 149.63-19.82 1.16-12.63 5.44-7.77-16.12 3.1-10.3h-53.63l5.25-16.13 12.43-21.96 2.92-5.83-7-10.69v-11.46l.39-20.8 14.19-27.98 9.52-18.07h59.27z"
+    />
+    <path
+        class="cls-51"
+        d="m1119.09 931.01-.97 4.27 6.22 6.41-.39 6.22-5.25 5.64-5.24-.58-6.42-12.44-3.49 11.27-7-.97 8.74-149.63-2.52-3.11-.39-.78 71.51.78 11.47 66.26 8.16 25.66-4.86 9.32v11.86l2.53 20.01z"
+    />
+    <path
+        class="cls-51"
+        d="m1328.96 1076.75-1.94 20.01-5.63 10.88s-1.75 7-2.33 7c-.19-.78-4.66-.97-4.66-.97l-14.38 3.11-1.55-7-8.74-16.71-9.52-3.89-1.94-14.38-6.41-5.44.19-4.86-5.05-1.94-10.88-19.63 7-8.36.19-4.86-3.3 1.55-2.91-.78.78 3.69-3.11 2.72-3.5-5.64 5.64-32.65-11.47-10.69-20.99-24.1-12.05-3.5-25.07 17.1-11.08-16.91-27.59-9.91-25.65 3.3-4.28-.39 5.25-5.63.39-6.22-6.22-6.41.97-4.27 72.09.19 3.69 8.94 73.45 5.05.97 5.25 3.3 1.36 1.75-8.16.19-5.64 15.93 2.72 2.14 15.93 22.74 54.22-2.33-2.14-3.3 1.94 3.5 10.11 14.38 35.76 1.36 20.21Z"
+    />
+    <path
+        class="cls-51"
+        d="m1305.84 897.39-12.44 27.79-2.92 15.54-15.93-2.72-.19 5.64-1.75 8.16-3.31-1.36-.97-5.25-73.45-5.05-3.69-8.94-2.53-20.01v-11.86l4.86-9.32-8.16-25.66-11.47-66.26h29.15l7.19.39 33.62-.39-6.61 9.91 9.52 7.58 11.47 14.77 14.57 15.54 7.19 11.86 11.66 16.52 7.19 15.35z"
+    />
+    <path
+        class="cls-51"
+        d="m1370.55 835.79-11.08 9.33-7.58 15.15-21.76 16.91-12.63 5.64.19 4.85-5.83.78-.97 3.11-5.05 5.83-7-7.77-7.19-15.35-11.66-16.52-7.19-11.86-14.57-15.54-11.47-14.77-9.52-7.58 6.61-9.91 22.15-6.8 34.78 1.55 1.17 3.11 2.91-1.75 3.89 5.44v4.09l31.68 1.36z"
+    />
+    <path
+        class="cls-51"
+        d="m1440.7 782.93-15.74-.77 3.49 8.16-11.07 3.11 14.96 3.69-4.08 9.71-19.43 3.11-20.6 24.68-17.68 1.17-30.12-30.7-31.68-1.36v-4.09l-3.89-5.44-2.91 1.75-1.17-3.11-34.78-1.55-22.15 6.8-33.62.39 2.14-11.27 32.84-16.13 32.84-15.94 6.61-12.04 160.89 1.94-3.1 7.97-8.94 7.58 15.93 11.27z"
+    />
+    <path
+        class="cls-51"
+        d="m1284.66 743.1-6.61 12.04-32.84 15.94-32.84 16.13-2.14 11.27-7.19-.39h-29.15l-71.51-.78.39.78h-59.27l16.13-34.2 5.44-17.3h41.39l-.78-6.6 122.82 2.13zm-260.2-174.31-3.11 7.38 4.47 5.83-3.11 8.36-11.27 17.68-10.69-8.55-109.6.78-7.77-37.7-11.27-33.81-5.06-9.72 4.67-14.57-3.69-13.02h149.04l6.8 29.92 11.66 8.17 12.44 17.68-3.5 17.29z"
+    />
+    <path
+        class="cls-51"
+        d="m1274.36 710.06-29.54 24.87-16.32 7.19-122.82-2.13.78 6.6h-41.39l4.66-4.47 5.06-1.55.97-10.88v-5.25l4.47-3.11 14.96 3.89-.78-10.11 8.75-2.33 3.3-12.05 20.21-3.3 16.13-1.17 7.58-6.8 10.1 4.08 9.72-9.13 9.13-12.05.58-4.47h11.28l5.44-4.08-.39-8.94 4.86-1.75 10.1 6.61 18.27 9.33 20.79-1.56 8.36 11.66v11.08l9.71 13.02z"
+    />
+    <path
+        class="cls-51"
+        d="m1459.55 693.54-1.36 4.47-2.72 5.25-3.3 7.38-3.89 2.14-1.55 7-3.11 4.47-1.36-5.83 3.11-11.85 5.44-8.55.58-3.11 8.16-1.36Zm-17.1 38.48-8.55-1.36-5.05 1.17-4.86-6.22-5.83-4.47 7 1.94 8.36 5.83v-5.25l-3.3-5.83 4.86-.78-1.17-7.38-6.02-4.08-1.55-2.72 7.58 2.91 1.17-9.13-12.05-8.16-7.58-1.17-1.36-4.08-4.27-2.72-4.08-2.91 8.16-12.24-2.72-5.05-10.3-6.02.58-4.66-7.58-3.11-2.72 6.61-13.8-11.47-3.89 13.41-10.49 9.91-4.08-1.17-7.77 14.38-10.49-5.05-17.88 32.45-6.41 8.55-22.93 5.63-8.94 1.36-6.41-4.28-3.69-6.8-29.54 24.87-16.32 7.19 56.16.97 160.9 1.94-3.11-13.02Z"
+    />
+    <path
+        class="cls-51"
+        d="m1468.1 677.61-2.72 6.41-5.83 9.52-8.16 1.36-5.45.2 2.34-6.03-2.53-6.99-4.28 3.3-4.47-5.83-.58-6.22 2.92-2.52-4.86-9.72 1.55-5.05-.19-5.05 6.61-6.61 1.94-5.25-4.28-2.52-1.16 3.88-3.31.2-3.69 4.27-3.5 4.86 1.95 4.47-2.72 5.25 1.94 7.96 2.33 11.28-3.11 1.36 2.72 2.91 1.56 8.16-8.16-5.83-8.75-2.91-6.6-7.19 4.27-7.78v-2.13l2.33-2.92-2.91-4.47-2.14 2.33-10.3-6.02.58-4.66-7.58-3.11-3.1-10.11-5.83-1.55-5.25-.39-8.16 4.47-6.8-3.5-4.47 6.02-3.5-.38-11.66 9.71.19-18.46h103l2.13 45.47zM520.96 585.5v143.6H381.83l-.2-180.72h83.56v37.12zM361.62 852.31l8.16 18.26-7.19 4.28-66.65 6.22-5.44-20.6-25.65-18.85-9.33-11.27-55.58-13.8-2.91-23.51-34.79-44.7 1.56-16.71-14.97-12.82-4.66-19.44-9.33-10.88-25.65-31.48.97-20.4-17.1-30.12 8.55-31.68-3.69-26.43h117.76v109.99l149.63 139.72 13.02 25.26-9.91 7z"
+    />
+    <path
+        class="cls-51"
+        d="m302.16 465.6-3.7 13.22.2 69.56H97.92l-8.74-32.84 4.66-17.87 11.86-84.54v-24.67l23.7-2.53 9.52 18.27 11.47 5.63 17.29-5.05h34.79l41-11.47 59.07-.19 11.86 15.16-20.6 49.74z"
+    />
+    <path
+        class="cls-51"
+        d="m302.54 393.12-59.07.19-41 11.47h-34.79l-17.29 5.05-11.47-5.63-9.52-18.27-26.23-3.5-2.33-31.67-15.74-51.5 50.33 7.78 9.52 4.27 1.55-16.71-7.38-24.29 159.15-.59.19 100.86zm386.9 335.98v17.49h-1.16l-.59 151.77H587.42l4.08 7.39h-47.41v14.57h-23.13V729.1zm27.6 0H520.96V585.5h195.69l.19 36.73z"
+    />
+    <path
+        class="cls-51"
+        d="m953.92 931.01-6.03 14.77-1.36 17.29-3.3 9.72-14.96 3.69-10.5 9.72-24.29 17.68-37.5 26.43-10.3 22.93 7.19 37.5-4.08 1.17-2.53 2.33-8.35-5.64-17.69-2.52-22.15-9.52-3.5-11.28-4.08-5.24-1.55-7.97-2.72-12.44-4.86-1.75-2.92-3.49-14.77-19.05-13.21-28.56-18.85-16.52-23.71-2.72-9.91 4.86-5.63 16.32-7 7.19-4.47-1.17-34.2-21.76-12.82-30.9-25.07-21.76-12.05-11.47-5.25-3.1-4.08-7.39h100.27l.59-151.77h84.92v65.88l11.65 6.22 6.61-1.95 4.67 7.78 29.92 2.33 9.14 7.97 21.95-.97 16.13 5.24 32.26-5.63 21.38 9.71 12.24 3.69.19 18.08-.19 31.67.58 2.33z"
+    />
+    <path
+        class="cls-51"
+        d="m926.91 843.17-21.38-9.71-32.26 5.63-16.13-5.24-21.95.97-9.14-7.97-29.92-2.33-4.67-7.78-6.61 1.95-11.65-6.22v-65.88h-83.76V729.1h233.77v17.49zM520.96 729.1v191.22l-56.35-.19-104.93-37.9 2.91-7.38 7.19-4.28-8.16-18.26 6.8-21.96 9.91-7-13.02-25.26-2.52-37.5 9.13-3.31 5.24 3.89 3.31-2.72 1.16-1.56.2-27.79z"
+    />
+    <path
+        class="cls-51"
+        d="m381.83 729.1-.2 27.79-1.16 1.56-3.31 2.72-5.24-3.89-9.13 3.31 2.52 37.5-149.63-139.72V548.38h165.95zm487.36-333.45H661.27V269.53h73.84l115.43-.19 2.91 36.53 7.19 25.46v32.25z"
+    />
+    <path
+        class="cls-51"
+        d="M661.46 432.96H465.19v19.82l-8.94-10.11-10.1 8.36-33.62 4.47-29.54-48.39-11.27 5.44-2.52-26.43 4.47-20.01-13.8-4.86-33.81-49.36v-42.17h168.28l166.93-.19v126.12zm906.13-.59-1.17 8.94-1.94 11.27-11.46 6.22-8.36 27.4-5.64 25.85 1.75 8.74-21.96-.78-.38-31.28-4.28-3.11.97-7-.77-10.88 3.1-11.66-1.94-8.16.78-15.16z"
+    />
+    <path
+        class="cls-51"
+        d="M661.07 585.5H465.19V432.96h195.49l.2 77.53zM465.19 452.78v95.6H298.66l-.2-69.56 3.7-13.22-8.36-7.58 20.6-49.74-11.86-15.16-4.08-22.54-.19-100.86h27.79v42.17l33.81 49.36 13.8 4.86-4.47 20.01 2.52 26.43 11.27-5.44 29.54 48.39 33.62-4.47 10.1-8.36zm1131.94 116.88-.05 2.3-.91-.99zm14.57-17.19v7.58l-13.41 1.94-7.38 3.5.97-6.22-1.17-1.55-3.5 3.3-8.36 5.05-2.72.19v-5.25l1.94-4.86-3.11 2.33-1.94-2.53-.78-3.5-1.17-.39-.19-4.28-11.66.19-46.64-1.75-.78-.78 7-25.46 21.96.78 32.26.97 10.69-7 3.11.78 1.55 7.38 5.05 1.94-7.77 3.69-2.53 4.66-1.94 3.89 3.69-.19 7 8.55-.78 2.53 3.3 1.75.19 5.44 4.86 3.3 10.1-3.3-.78-4.47-1.94-3.5h-1.36l-3.11-2.14h4.47l4.86 7.38Zm-23.82 21.4 3.08-1.52 3.79-.33.63-1.08-1.19-.92-.55-2-2.51.64-2.64 3.12-2.28.24 1.67 1.86Zm17.44 2 2.97.5 2.39-1.14-2.51-4.47-.65 3.27s-3.91.75-4.16.78z"
+    />
+    <path
+        class="cls-51"
+        d="m1574.97 558.49-.78 2.33-2.72-3.5-1.94 4.08.19 4.86-1.94 5.83-3.3-.19-6.41 1.75 1.17-3.5V548l11.66-.19.19 4.28 1.17.39.78 3.5 1.94 2.53Zm-1.16 4.18v2.4l-.52 2.21 2.85-1.02v-5.25zm-3.31 3.63.23 2.11.88-1.92-.46-2.35zm-455.23-73.41 11.62-40.24 12.16-32.54-22.03 23.37 4.6-15.96-4.86-7.58-5.25-3.11-.77-11.66-9.92-9.52-52.07-16.13-8.36-9.91.56-1.24-9.33 2.56v-17.88l-19.51 10.73h-14.86l-5.05-.97-4.08 3.88v23.13l-1.75 1.94-13.02 17.1 4.27 6.61-4.27 27.01 38.86 28.76 4.86 20.21 6.8 29.92 11.66 8.17 79.74.31zm6.15 174.03-2.72-11.27 2.14-10.3.19-84.97-2.37-.82-3.39-22.75v-6.96l-79.74-.31 12.44 17.68-3.5 17.29-20.01 4.28-3.11 7.38 4.47 5.83-3.11 8.36-11.27 17.68.19 19.05 12.83 16.32 11.07 16.13 12.44 1.75-6.61 21.95 20.41 20.21 4.47 16.72 9.52 9.52v-5.25l4.47-3.11 14.96 3.89-.78-10.11 8.75-2.33 3.3-12.05 2.14-15.74z"
+    />
+    <path
+        class="cls-51"
+        d="M1197.02 557.32h-55.16l-9.89 6.82-10.94-3.76-.19 84.97-2.14 10.3 2.72 11.27-12.82 18.07-2.14 15.74 20.21-3.3 16.13-1.17 7.58-6.8 10.1 4.08 9.72-9.13 9.13-12.05.58-4.47h11.28l5.44-4.08-.39-8.94.78-95.21zm279.43 10.89-6.61-2.53-1.94-10.88-8.35-6.42h-122.23V536.7l-20.99 11.06v84.57h131.95l1.94-3.3 3.3-1.94 5.05 1.94 10.5-6.8 8.55-6.03-12.83-16.9 3.69-9.72-2.13-3.3 12.24-13.8z"
+    />
+    <path
+        class="cls-51"
+        d="m1307.45 552.44-47.95 16.29-19.06-9.07 3.02-9.14-9.33 7.58-37.11 1.56-.78 95.21 4.86-1.75 10.1 6.61 18.27 9.33 20.79-1.56 8.36 11.66 7.96-3.3 7.78-17.88 5.24 2.14 3.89-10.3 6.02-5.83h1.95l15.35-9.72 6.22-23.9-.78-10.3 4.08-1.55v-50.76zm-334.1-109.96 4.27-27.01-4.27-6.61 13.02-17.1 1.75-1.94v-23.13l4.08-3.88 5.05.97 33.99-33.8 34.61-18.28-38.29-10.11-20.59 4.67-21.38-13.99-22.93-7.19-11.27 6.41-28.95-11.66-5.83-24.1-8.55-2.13v15.74h-57.52l2.91 36.53 7.19 25.46v32.25l8.55 32.07-8.35 12.63 11.27 13.79v69.38h144.96l-4.86-20.21z"
+    />
+    <path
+        class="cls-51"
+        d="m1558.07 582.97-7.19 2.91-9.91 4.86-11.08 3.69-14.57 3.11-9.52 2.72-2.14-1.17-2.53.19-.58.78-2.72.78-.78-2.33 4.08-5.25 4.66-.97 1.94-2.33 8.16-2.92h4.86l3.69-.58h8.74l12.44-7 1.36.39-4.08 2.92-6.22 5.44 4.47.39.78-1.75 3.11-2.53 3.69-.78 2.14 1.17 5.83-2.14 1.36.39Zm-66.16 19.94 2.22-.67 1.79-1.95v-1.83l-2.55 1.26-1.46 3.18Zm-51.21-144.62h7.57l-9.86 11.27-1.45 17.07-19.75 11.63-19.3-2.15-41.91 3.48 4.83 15.17 2.61 8.16-26.13 13.77v11.68h122.23l8.36 6.41 1.94 10.88 6.61 2.53 2.14 4.27 21.96 13.41-2.92 8.36 1.17.97 1.36-2.72 2.72-.58 2.53-4.08 2.33-2.72-1.36-3.69 6.02-3.89-1.55-3.5 1.75-27.79-.78-.78 7-25.46-.39-31.29-4.27-3.11.97-7-.78-10.88 3.11-11.66-1.94-8.16.78-15.16-35.95.39-11.85 2.14-27.79 23ZM1082.24 318l-5.85-1.07 18-13.68 5.4 4.83zm120.92 74.84 16.79-2.63-4.86-18.85-11.66 3.3-11.02-10.79-26.54 1.86-31.36 6.8-31.4-15.54 10.37-25.39-35.43 24.5-21.67 8.05-15.43 4.23-.56 1.24 8.36 9.91 52.08 16.13 9.91 9.52.78 11.66 5.25 3.11 4.86 7.58 12.2-21.27 19.03-4.83 33.74-13.68 5.82 5.1 7.53 2.81 3.22-2.81Zm57.89 92.27-10.19-16.36-19.82 15.02-9.38-4.29 22-28.7-4.44-28.97-34.03-18.78-.58-2.95h-9.58l1.65 2.41-16.35 32.5-6.39-7.56-23.82 48.28 8.79 41.58-6.05 32.45-10.99 7.58h55.16v2.33l37.12-1.55 9.33-7.58-.19-12.63 17.1-12.83.69-39.96Z"
+    />
+    <path
+        class="cls-50"
+        d="m1687.68 425.18-3.5 1.75-4.08-5.83 1.17-3.5-.19-8.36-10.3-4.08-.19-55.58-12.82-12.05-17.68 7.38-4.47-4.08-.19-5.83-5.05-.97-20.99 30.7-1.94 11.66-6.22 13.21.39 7.97-4.28 6.61-7.38 6.22 1.17 6.22-4.66.19-.39 4.28-4.28-1.94-2.72 1.94-7.19.97-4.27 10.3-51.3.39-35.95.39-11.85 2.14-27.79 23h7.57l-9.86 11.27-1.45 17.07-19.75 11.63-19.3-2.15-41.91 3.48 4.83 15.17 2.61 8.16-26.13 13.77-20.99 11.06-8.88 4.68-47.96 16.29-19.05-9.07 3.01-9.13-.19-12.63 17.1-12.83.69-39.96-10.19-16.36-19.82 15.02-9.38-4.29 22-28.7-4.44-28.97-34.03-18.78-.58-2.95h-9.58l1.65 2.41-16.35 32.5-6.39-7.56-23.82 48.28 8.79 41.58-6.05 32.45-10.99 7.58-9.89 6.82-10.94-3.77-2.36-.81-3.4-22.75v-43.92l11.62-40.24 12.16-32.55-22.03 23.38 4.6-15.97 12.2-21.27 19.03-4.83 33.74-13.68 5.82 5.1 7.53 2.81 3.22-2.81 16.79-2.63-4.86-18.85-11.66 3.3-11.02-10.79-26.54 1.86-31.36 6.8-31.4-15.54 10.37-25.39-35.43 24.5-21.67 8.05-15.43 4.23-9.33 2.56v-17.88l-19.51 10.73h-14.86l33.99-33.8 34.61-18.28-38.28-10.11-20.6 4.66-21.38-13.99-22.93-7.19-11.27 6.41-28.95-11.66-5.83-24.1-8.55-2.14v15.74h-57.52l-115.43.19H661.3l-166.92.19H298.31l-159.15.58 7.38 24.29-1.55 16.71-9.52-4.27-50.33-7.77 15.74 51.5 2.33 31.67 26.23 3.5-23.71 2.53v24.68l-11.85 84.53-4.66 17.88 8.74 32.84 3.69 26.43-8.55 31.67 17.1 30.12-.97 20.41 25.65 31.48 9.33 10.88 4.66 19.43 14.96 12.82-1.56 16.71 34.78 44.7 2.92 23.51 55.58 13.8 9.33 11.27 25.65 18.85 5.44 20.6 66.65-6.22-2.92 7.38 104.94 37.89 56.35.19h23.12V905.7h47.41l5.25 3.11 12.05 11.47 25.07 21.76 12.82 30.9 34.2 21.76 4.47 1.17 7-7.19 5.64-16.32 9.91-4.86 23.71 2.72 18.85 16.52 13.21 28.57 14.77 19.04 2.91 3.5 4.86 1.75 2.72 12.44 1.55 7.97 4.08 5.25 3.5 11.27 22.15 9.52 17.68 2.53 8.36 5.64 2.53-2.33 4.08-1.17-7.19-37.5 10.3-22.93 37.5-26.43 24.29-17.68 10.49-9.72 14.96-3.69 17.88-2.72 21.38 6.8 8.94-1.56 3.69-5.63 11.85 3.11 10.49 5.05 1.36 7-5.25 1.55 5.25 2.14 12.05 3.3 7-6.02 5.83 1.36 1.55 4.08 4.47-2.91.58-7.97 6.02 2.72 14.19 9.13-.19 3.69 5.25-1.36 3.3-6.02-3.3-2.72-10.11-4.28-6.02-6.22 6.61-2.52 3.5-6.8-3.3-4.27-4.28 3.89-3.11-.39 5.25-7.77 12.63-5.44 19.82-1.17 7 .97 3.5-11.27 6.41 12.44 5.25.58 4.28.39 25.65-3.3 27.59 9.91 11.08 16.91 25.07-17.1 12.05 3.5 20.99 24.1 11.47 10.69-5.64 32.65 3.5 5.64 3.11-2.72-.78-3.69 2.91.78 3.3-1.55-.19 4.86-7 8.36 10.88 19.63 5.05 1.94-.19 4.86 6.41 5.44 1.94 14.38 9.52 3.89 8.74 16.71 1.55 7 14.38-3.11s4.47.19 4.66.97c.58 0 2.33-7 2.33-7l5.63-10.88 1.94-20.01-1.36-20.21-14.38-35.76-3.5-10.11 3.3-1.94 2.33 2.14-22.74-54.22-2.14-15.93 2.92-15.55 12.44-27.79 5.05-5.83.97-3.11 5.83-.78-.19-4.86 12.63-5.64 21.76-16.91 7.58-15.16 11.08-9.33 17.68-1.17 20.6-24.68 19.43-3.11 4.08-9.72-14.96-3.69 11.08-3.11-3.5-8.16 15.74.78 8.74-11.08-15.93-11.27 8.94-7.58 3.11-7.97-3.11-13.02-8.55-1.36-5.05 1.17-4.86-6.22-5.83-4.47 7 1.94 8.36 5.83v-5.25l-3.3-5.83 4.86-.78-1.17-7.38-6.02-4.08-1.55-2.72 7.58 2.91 1.17-9.13-12.05-8.16-7.58-1.17-1.36-4.08-4.27-2.72-4.08-2.91 8.16-12.24v2.14l-4.27 7.77 6.61 7.19 8.74 2.91 8.16 5.83-1.55-8.16-2.72-2.91 3.11-1.36-2.33-11.27-1.94-7.97 2.72-5.25-1.94-4.47 3.5-4.86 3.69-4.27 3.3-.19 1.17-3.89 4.27 2.53-1.94 5.25-6.61 6.61.19 5.05-1.55 5.05 4.86 9.72-2.91 2.53.58 6.22 4.47 5.83 4.27-3.3 2.53 7-2.33 6.02 5.44-.19-.58 3.11-5.44 8.55-3.11 11.85 1.36 5.83 3.11-4.47 1.55-7 3.89-2.14 3.3-7.38 2.72-5.25 1.36-4.47 5.83-9.52 2.72-6.41-.58-12.05-6.41-5.25-1.94-10.88-4.08-6.61-1.55-7.38 5.05-6.41-1.75 3.69-1.36 7.77 6.61 6.02 3.69 4.66 6.8 1.17-1.55 8.36 4.66-1.94 4.47-9.13 10.11-11.08 6.61-16.71 2.14-14.19-8.36-3.5.19-3.89 6.8-6.02 1.17.97 1.36-2.72 2.72-.58 2.53-4.08 2.33-2.72 9.91-4.66 10.88-5.05 12.05-.19 17.49-1.55 6.41-1.75 3.3.19 1.94-5.83-.19-4.86 1.94-4.08 2.72 3.5.78-2.33 3.11-2.33-1.94 4.86-2.33 1.66v2.4l-.52 2.21 2.85-1.02 2.72-.19 8.36-5.05 3.5-3.3 1.17 1.55-.97 6.22 7.38-3.5 13.41-1.94v-7.58l-4.86-7.38h-4.47l3.11 2.14h1.36l1.94 3.5.78 4.47-10.1 3.3-4.86-3.3-.19-5.44-3.3-1.75.78-2.53-7-8.55-3.69.19 1.94-3.89 2.53-4.66 7.77-3.69-5.05-1.94-1.55-7.38 1.94-8.16 4.47-5.05 3.89-7.58 4.47-4.66 3.3-7.97 4.86-4.28 3.11 2.92 4.66-3.3 3.5-.19 5.63-6.02 2.92 2.91 11.85-21.18 2.72 1.94-.19 3.69 4.08 3.11 4.08-6.22 7.77-2.53 3.69 4.27s7.77-9.33 7.97-7.97c0 1.17 10.3-1.17 10.3-1.17l2.33-4.47 4.47 1.55 4.86-7.19-5.83-12.83Z"
+    />
+    <path
+        class="cls-50"
+        d="m1597.08 571.96.05-2.3-.96 1.31zm10.44 2.06s-3.91.75-4.16.78l1.96 1.06 2.97.5 2.39-1.14-2.51-4.47zm-13.87-6.01-2.51.64-2.64 3.12-2.28.24 1.67 1.86 3.08-1.52 3.79-.34.63-1.08-1.19-.92z"
+    />
+    <path
+        style="
+            fill: #e0e0e0;
+            stroke: #fff;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        "
+        d="m1570.5 566.3.23 2.11.88-1.92-.46-2.35z"
+    />
+    <path
+        class="cls-50"
+        d="m1494.12 602.24 1.8-1.95v-1.82l-2.55 1.26-1.46 3.18zm56.76-17.52-2.14-1.16-3.69.77-3.11 2.53-.78 1.75-4.47-.39 6.22-5.44 4.08-2.92-1.36-.38-12.44 6.99h-8.74l-3.69.58h-4.86l-8.16 2.92-1.94 2.33-4.67.97-4.08 5.25.78 2.33 2.72-.78.58-.77 2.53-.2 2.14 1.17 9.52-2.72 14.57-3.11 11.08-3.69 9.91-4.86 7.19-2.92-1.36-.38zm-451.09-276.65-5.4-4.83-18 13.68 5.85 1.08z"
+    />
+    <text class="cls-6" transform="translate(752.54 920.42)">
+        <tspan x="0" y="0" style="letter-spacing: -0.11em">T</tspan>
+        <tspan class="cls-30" x="11.14" y="0">ex</tspan>
+        <tspan class="cls-24" x="35.58" y="0">as</tspan>
+    </text>
+    <text class="cls-9" transform="translate(944.41 808.79)">
+        <tspan x="0" y="0">Ar</tspan>
+        <tspan x="18.19" y="0" style="letter-spacing: 0">k</tspan>
+        <tspan x="27.44" y="0">ansas</tspan>
+    </text>
+    <text class="cls-9" transform="translate(1121.86 772.26)">
+        <tspan x="0" y="0" style="letter-spacing: -0.11em">T</tspan>
+        <tspan x="8.41" y="0">ennessee</tspan>
+    </text>
+    <text class="cls-9" transform="translate(1156.26 715.26)">
+        <tspan x="0" y="0" style="letter-spacing: -0.03em">K</tspan>
+        <tspan x="10.82" y="0">entucky</tspan>
+    </text>
+    <text
+        transform="translate(958.85 951.82)"
+        style="
+            fill: #606060;
+            font-family: SFProDisplay-Bold, 'SF Pro Display';
+            font-weight: 700;
+            font-size: 14.97px;
+        "
+    >
+        <tspan x="0" y="0" style="letter-spacing: 0">L</tspan>
+        <tspan x="8.02" y="0" style="letter-spacing: 0">ouisiana</tspan>
+    </text>
+    <text
+        transform="translate(1027.85 880.01)"
+        style="
+            fill: #606060;
+            font-family: SFProDisplay-Bold, 'SF Pro Display';
+            font-weight: 700;
+            font-size: 12.85px;
+        "
+    >
+        <tspan x="0" y="0">Mississippi</tspan>
+    </text>
+    <text class="cls-7" transform="translate(1105.29 882.21)">
+        <tspan x="0" y="0">Alabama</tspan>
+    </text>
+    <text class="cls-7" transform="translate(1208.69 897.39)">
+        <tspan x="0" y="0">Geo</tspan>
+        <tspan class="cls-16" x="33.63" y="0">r</tspan>
+        <tspan x="39.91" y="0">gia</tspan>
+    </text>
+    <text class="cls-7" transform="translate(1288.04 826.23)">
+        <tspan x="0" y="0">South</tspan>
+        <tspan class="cls-76" x="-9.63" y="21.75">C</tspan>
+        <tspan x="3.25" y="21.75">a</tspan>
+        <tspan class="cls-16" x="13.17" y="21.75">r</tspan>
+        <tspan x="19.45" y="21.75">olina</tspan>
+    </text>
+    <text class="cls-3" transform="translate(1294.69 781.44)">
+        <tspan x="0" y="0">North</tspan>
+        <tspan x="44.06" y="0" style="letter-spacing: 0">C</tspan>
+        <tspan x="55.28" y="0">a</tspan>
+        <tspan class="cls-62" x="63.92" y="0">r</tspan>
+        <tspan x="69.4" y="0">olina</tspan>
+    </text>
+    <text class="cls-3" transform="translate(1340.23 715.26)">
+        <tspan x="0" y="0" style="letter-spacing: 0">V</tspan>
+        <tspan x="10.6" y="0">i</tspan>
+        <tspan class="cls-62" x="14.39" y="0">r</tspan>
+        <tspan x="19.87" y="0">ginia</tspan>
+    </text>
+    <text
+        transform="translate(1293.92 664.43)"
+        style="
+            font-size: 11.98px;
+            fill: #606060;
+            font-family: SFProDisplay-Bold, 'SF Pro Display';
+            font-weight: 700;
+        "
+    >
+        <tspan x="0" y="0" style="letter-spacing: -0.06em">W</tspan>
+        <tspan x="10.87" y="0" style="letter-spacing: 0">est</tspan>
+        <tspan x="-5.53" y="14.38" style="letter-spacing: 0">V</tspan>
+        <tspan x="2.51" y="14.38">i</tspan>
+        <tspan x="5.38" y="14.38" style="letter-spacing: -0.02em">r</tspan>
+        <tspan x="9.54" y="14.38">ginia</tspan>
+    </text>
+    <text
+        transform="translate(1269.07 1023.89)"
+        style="
+            fill: #606060;
+            font-family: SFProDisplay-Bold, 'SF Pro Display';
+            font-weight: 700;
+            font-size: 11.3px;
+        "
+    >
+        <tspan x="0" y="0">Florida</tspan>
+    </text>
+    <text class="cls-6" transform="translate(541.71 828.72)">
+        <tspan x="0" y="0">N</tspan>
+        <tspan x="16.34" y="0" style="letter-spacing: 0">e</tspan>
+        <tspan class="cls-24" x="28.99" y="0">w M</tspan>
+        <tspan class="cls-30" x="71.33" y="0">e</tspan>
+        <tspan x="83.87" y="0">xico</tspan>
+    </text>
+    <text class="cls-7" transform="translate(189.2 735.94)">
+        <tspan class="cls-52" x="0" y="0">C</tspan>
+        <tspan x="12.87" y="0">ali</tspan>
+        <tspan class="cls-59" x="31.53" y="0">f</tspan>
+        <tspan class="cls-54" x="37.72" y="0">ornia</tspan>
+    </text>
+    <text class="cls-7" transform="translate(267.32 640.33)">
+        <tspan x="0" y="0">N</tspan>
+        <tspan class="cls-66" x="12.95" y="0">e</tspan>
+        <tspan x="22.88" y="0" style="letter-spacing: -0.01em">v</tspan>
+        <tspan x="32.23" y="0" style="letter-spacing: 0">ada</tspan>
+    </text>
+    <text class="cls-7" transform="translate(581.23 660.48)">
+        <tspan x="0" y="0">Colo</tspan>
+        <tspan class="cls-36" x="38.07" y="0">r</tspan>
+        <tspan x="44.44" y="0">ado</tspan>
+    </text>
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-kansas-city/" target="_blank">
+    <text class="cls-7 british" transform="translate(789.69 678.84)">
+        <tspan class="cls-59 british" x="0" y="0">Kansas</tspan>
+    </text>
+    </a>
+    <text class="cls-7" transform="translate(805.37 776.54)">
+        <tspan x="0" y="0">Oklahoma</tspan>
+    </text>
+    <text class="cls-7" transform="translate(943.89 698.27)">
+        <tspan x="0" y="0">Missouri</tspan>
+    </text>
+    <text class="cls-7" transform="translate(935.45 552.92)">
+        <tspan class="cls-66" x="0" y="0">Lowa</tspan>
+        <tspan x="9.71" y="0" style="letter-spacing: 0">o</tspan>
+        <tspan class="cls-66" x="20" y="0">w</tspan>
+        <tspan x="34.19" y="0">a</tspan>
+    </text>
+    <text class="cls-7" transform="translate(1040.21 616.59)">
+        <tspan x="0" y="0">Illinois</tspan>
+    </text>
+    <text class="cls-7" transform="translate(1173.01 506.34)">
+        <tspan x="0" y="0">Michigan</tspan>
+    </text>
+    <text class="cls-7" transform="translate(1236.8 613.46)">
+        <tspan x="0" y="0">Ohio</tspan>
+    </text>
+    <text class="cls-7" transform="translate(1342.78 590.16)">
+        <tspan x="0" y="0" style="letter-spacing: -0.02em">Pennsylvania</tspan>
+        
+    </text>
+    <text class="cls-7" transform="translate(1422.14 514.77)">
+        <tspan x="0" y="0">New York</tspan>
+    </text>
+    <text
+        transform="translate(1522.96 536.7)"
+        style="
+            fill: #606060;
+            font-family: SFProDisplay-Bold, 'SF Pro Display';
+            font-weight: 700;
+            font-size: 7.53px;
+        "
+    >
+        <tspan x="0" y="0" style="letter-spacing: -0.01em">Massachusetts</tspan>
+        
+    </text>
+    <text
+        transform="translate(1138.25 615.79)"
+        style="
+            fill: #606060;
+            font-family: SFProDisplay-Bold, 'SF Pro Display';
+            font-weight: 700;
+            font-size: 13.55px;
+        "
+    >
+        <tspan x="0" y="0">Indiana</tspan>
+    </text>
+    <text class="cls-7" transform="translate(431.45 658.5)">
+        <tspan x="0" y="0">Utah</tspan>
+    </text>
+    <text class="cls-7" transform="translate(159.07 479.87)">
+        <tspan x="0" y="0">Oregon</tspan>
+    </text>
+    <text class="cls-7" transform="translate(358.58 491.45)">
+        <tspan x="0" y="0">Idaho</tspan>
+    </text>
+    <text class="cls-7" transform="translate(484.4 350.81)">
+        <tspan x="0" y="0">Montana</tspan>
+    </text>
+    <text class="cls-7" transform="translate(523.87 512.4)">
+        <tspan class="cls-66" x="0" y="0">Wyoming</tspan>
+    </text>
+    <text class="cls-7" transform="translate(742.78 569.53)">
+        <tspan x="0" y="0">Nebraska</tspan>
+    </text>
+    <text class="cls-7" transform="translate(710.68 465.38)">
+        <tspan x="0" y="0">South Dakota</tspan>
+    </text>
+    <text class="cls-7" transform="translate(711.85 338.03)">
+        <tspan x="0" y="0">North Dakota</tspan>
+    </text>
+    <text class="cls-7" transform="translate(883.31 385.93)">
+        <tspan x="0" y="0">Minnesota</tspan>
+    </text>
+    <text class="cls-7" transform="translate(1004.96 444.62)">
+        <tspan x="0" y="0">Wisconsin</tspan>
+    </text>
+    <text class="cls-7" transform="translate(158.76 347.23)">
+        <tspan x="0" y="0" style="letter-spacing: -0.07em">Washington</tspan>
+    </text>
+    <text class="cls-6" transform="translate(400.45 828.72)">
+        <tspan x="0" y="0">Arizona</tspan>
+    </text>
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-arlington/" target="_blank">
+    <text class="cls-35 british" transform="translate(823.54 877.76)">
+        <tspan x="0" y="0">Arlington</tspan>
+    </text>
+    </a>
+    <circle cx="846.47" cy="857.92" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-fort-worth/" target="_blank">
+    <text class="cls-35 british" transform="translate(778.68 865.81)">
+        <tspan x="0" y="0" style="letter-spacing: -0.02em">Fort Worth</tspan>
+    </text>
+    </a>
+    <circle cx="838.22" cy="857.92" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-charlotte/" target="_blank">
+    <text class="cls-33 british" transform="translate(852.03 864.67)">
+        <tspan x="0" y="0">Charlotte, North Carolina</tspan>
+    </text>
+    </a>
+    <circle cx="854.8" cy="854.37" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-dallas/" target="_blank">
+    <text class="cls-33 british" transform="translate(865.83 853.92)">
+        <tspan x="0" y="0">Dallas</tspan>
+    </text>
+    </a>
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-garland/" target="_blank">
+    <text class="cls-33 british" transform="translate(858.13 847.38)">
+        <tspan x="0" y="0">Garland</tspan>
+    </text>
+    </a>
+    <circle cx="860.66" cy="851.15" r="2.77" />
+    <circle cx="854.25" cy="847.38" r="2.77" />
+    <circle cx="847.5" cy="848.37" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-austin/" target="_blank">
+    <text class="cls-35 british" transform="translate(796.65 951.8)">
+        <tspan class="cls-48" x="0" y="0">Austin</tspan>
+    </text>
+    </a>
+    <circle cx="789.67" cy="947.33" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-new-orleans/" target="_blank">
+    <text class="cls-35 british" transform="translate(1060.43 968.02)">
+        <tspan x="0" y="0">New Orleans</tspan>
+    </text>
+    </a>
+    <circle cx="1053.44" cy="963.56" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-miami/" target="_blank">
+    <text class="cls-35 british" transform="translate(1334.71 1097.86)">
+        <tspan x="0" y="0">Miami</tspan>
+    </text>
+    </a>
+    <circle cx="1327.73" cy="1093.39" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-orlando/" target="_blank">
+    <text class="cls-35 british" transform="translate(1304.64 1012.16)">
+        <tspan x="0" y="0">Orlando</tspan>
+    </text>
+    </a>
+    <circle cx="1297.65" cy="1007.7" r="2.77" />
+     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-jacksonville/" target="_blank">
+    <text class="cls-35 british" transform="translate(1294.41 957.17)">
+        <tspan x="0" y="0">Jacksonville</tspan>
+    </text>
+    </a>
+    <circle cx="1287.43" cy="952.7" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-tucson/" target="_blank">
+    <text class="cls-35 british" transform="translate(479.15 893.83)">
+        <tspan class="cls-39 british" x="0" y="0">Tucson</tspan>
+    </text>
+    </a>
+    <circle cx="472.17" cy="889.36" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-kansas-city/" target="_blank">
+    <text class="cls-35 british" transform="translate(857.31 661.15)">
+        <tspan class="cls-43 british" x="0" y="0">Kansas City</tspan>
+    </text>
+    </a>
+    <circle cx="921.51" cy="662.87" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-minneapolis/" target="_blank">
+    <text class="cls-35 british" transform="translate(903.39 441.88)">
+        <tspan x="0" y="0">Minneapolis</tspan>
+    </text>
+    </a>
+    <circle cx="969.85" cy="443.6" r="2.77" />
+    <a href="https://sirixmonitoring.com/live-remote-video-monitoring-phoenix/" target="_blank">
+    <text class="cls-35 british" transform="translate(433.9 854.62)">
+        <tspan x="0" y="0">Phoenix</tspan>
+    </text>
+    </a>
+    <circle cx="426.92" cy="850.16" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-houston/" target="_blank">
+    <text class="cls-35 british" transform="translate(891.15 959.39)">
+        <tspan x="0" y="0">Houston</tspan>
+    </text>
+    </a>
+    <circle cx="919.12" cy="967.18" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-tulsa/" target="_blank">
+    <text class="cls-35 british" transform="translate(869.84 743.13)">
+        <tspan class="cls-39" x="0" y="0">Tulsa</tspan>
+    </text>
+    </a>
+    <circle cx="902.83" cy="740.36" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-cleveland/" target="_blank">
+    <text class="cls-35 british" transform="translate(1242.5 582.5)">
+        <tspan x="0" y="0">Cleveland</tspan>
+    </text>
+    </a>
+    <circle cx="1264.62" cy="568.56" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-columbus/" target="_blank">
+    <text class="cls-35 british" transform="translate(1245.7 633.18)">
+        <tspan x="0" y="0">Columbus</tspan>
+    </text>
+    </a>
+    <circle cx="1242.93" cy="621.11" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-cincinnati/" target="_blank">
+    <text class="cls-35 british" transform="translate(1206.26 653.31)">
+        <tspan x="0" y="0">Cincinnati</tspan>
+    </text>
+    </a>
+    <circle cx="1202.23" cy="650.53" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-pittsburgh/" target="_blank">
+    <text class="cls-35 british" transform="translate(1324.89 607.09)">
+        <tspan x="0" y="0">Pittsburgh</tspan>
+    </text>
+    </a>
+    <circle cx="1320.86" cy="604.32" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-new-york-city/" target="_blank">
+    <text class="cls-35 british" transform="translate(1505.51 592.94)">
+        <tspan x="0" y="0">New York City</tspan>
+    </text>
+    </a>
+    <circle cx="1501.48" cy="590.16" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-boston/" target="_blank">
+    <text class="cls-35 british" transform="translate(1583.46 535.53)">
+        <tspan x="0" y="0">Boston</tspan>
+    </text>
+    </a>
+    <circle cx="1579.43" cy="532.76" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-memphis/" target="_blank">
+    <text class="cls-35 british" transform="translate(1054.87 792.23)">
+        <tspan x="0" y="0">Memphis</tspan>
+    </text>
+    </a>
+    <circle cx="1049.32" cy="793.32" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-nashville/" target="_blank">
+    <text class="cls-35 british" transform="translate(1124.2 751.68)">
+        <tspan class="cls-48 british" x="0" y="0">Nashville</tspan>
+    </text>
+    </a>
+    <circle cx="1118.64" cy="752.77" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-little-rock/" target="_blank">
+    <text class="cls-35 british" transform="translate(955.42 828.72)">
+        <tspan x="0" y="0">Little Rock</tspan>
+    </text>
+    </a>
+    <circle cx="981.88" cy="814.56" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-indianapolis/" target="_blank">
+    <text class="cls-35 british" transform="translate(1130.16 638.08)">
+        <tspan x="0" y="0">Indianapolis</tspan>
+    </text>
+    </a>
+    <circle cx="1160.55" cy="623.92" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-raleigh/" target="_blank">
+    <text class="cls-35 british" transform="translate(1387.24 764.34)">
+        <tspan x="0" y="0">Raleigh</tspan>
+    </text>
+    </a>
+    <circle cx="1377.42" cy="760.27" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-charlotte/" target="_blank">
+    <text class="cls-35 british" transform="translate(1316.49 794.71)">
+        <tspan x="0" y="0">Charlotte</tspan>
+    </text>
+    </a>
+    <circle cx="1306.67" cy="790.64" r="2.77" />
+     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-richmond/" target="_blank">
+    <text class="cls-35 british" transform="translate(1357.53 691.49)">
+        <tspan x="0" y="0">Richmond</tspan>
+    </text>
+    </a>
+    <circle cx="1402.32" cy="700.08" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-tampa/" target="_blank">
+    <text class="cls-35 british" transform="translate(1216.56 1027.25)">
+        <tspan x="0" y="0" style="letter-spacing: -0.13em">Tampa</tspan>
+    </text>
+    </a>
+    <circle cx="1256.45" cy="1024.81" r="2.77" />
+    <a href="https://sirixmonitoring.com/live-remote-video-monitoring-milwaukee/" target="_blank">
+    <text class="cls-35 british" transform="translate(1050.57 508.66)">
+        <tspan x="0" y="0">Milwaukee</tspan>
+    </text>
+    </a>
+    <circle cx="1108.74" cy="512.4" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-detroit/" target="_blank">
+    <text class="cls-35 british" transform="translate(1202.87 534.06)">
+        <tspan x="0" y="0">Detroit</tspan>
+    </text>
+    </a>
+    <circle cx="1241.16" cy="535.5" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-st-louis/" target="_blank">
+    <text class="cls-35 british" transform="translate(990.7 669.98)">
+        <tspan x="0" y="0">St. Louis</tspan>
+    </text>
+    </a>
+    <circle cx="1042.83" cy="667.21" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-chicago/" target="_blank">
+    <text class="cls-35 british" transform="translate(1063.88 560.11)">
+        <tspan x="0" y="0">Chicago</tspan>
+    </text>
+    </a>
+    <circle cx="1116.01" cy="557.33" r="2.77" />
+     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-san-diego/" target="_blank">
+    <text class="cls-35 british" transform="translate(298.76 864.16)">
+        <tspan x="0" y="0">San Diego</tspan>
+    </text>
+    </a>
+    <circle cx="296.81" cy="873.55" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-long-beach/" target="_blank">
+    <text class="cls-35 british" transform="translate(133.09 799.12)">
+        <tspan class="cls-43" x="0" y="0">Long Beach</tspan>
+    </text>
+    </a>
+    <circle cx="200.55" cy="791.48" r="2.77" />
+     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-los-angeles/" target="_blank">
+    <text class="cls-35 british" transform="translate(212.9 776.54)">
+        <tspan class="cls-43" x="0" y="0">Los Angeles</tspan>
+    </text>
+    </a>
+    <circle cx="210.96" cy="785.93" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-las-vegas/" target="_blank">
+    <text class="cls-35 british" transform="translate(323.63 746.59)">
+        <tspan x="0" y="0">Las Vegas</tspan>
+        
+    </text>
+    </a>
+    <circle cx="356.9" cy="755.99" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-salt-lake-city/" target="_blank">
+    <text class="cls-35 british" transform="translate(411.16 613.81)">
+        <tspan x="0" y="0">Salt Lake City</tspan>
+        
+    </text>
+    </a>
+    <circle cx="444.43" cy="598.2" r="2.77" />
+     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-denver/" target="_blank">
+    <text class="cls-35 british" transform="translate(611.35 604.32)">
+        <tspan x="0" y="0">Denver</tspan>
+        
+    </text>
+    </a>
+    <circle cx="628.87" cy="611.13" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-san-jose/" target="_blank">
+    <text class="cls-35 british" transform="translate(155.08 715.26)">
+        <tspan x="0" y="0">San Jose</tspan>
+    </text>
+    </a>
+    <circle cx="150" cy="718.03" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-oakland/" target="_blank">
+    <text class="cls-35 british" transform="translate(133.83 687.45)">
+        <tspan x="0" y="0">Oakland</tspan>
+    </text>
+    </a>
+    <circle cx="158.28" cy="693.99" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-sacramento/" target="_blank">
+    <text class="cls-35 british" transform="translate(183.77 686.18)">
+        <tspan x="0" y="0">Sacramento</tspan>
+    </text>
+    </a>
+    <circle cx="178.69" cy="688.95" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-seattle/" target="_blank">
+    <text class="cls-35 british" transform="translate(159.76 306.02)">
+        <tspan x="0" y="0">Seattle</tspan>
+    </text>
+    </a>
+    <circle cx="154.68" cy="308.79" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-portland/" target="_blank">
+    <text class="cls-35 british" transform="translate(114.21 420.51)">
+        <tspan class="cls-72" x="0" y="0">Portland</tspan>
+       
+    </text>
+    </a>
+    <circle cx="136.61" cy="405.63" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-san-francisco/" target="_blank">
+    <text class="cls-35 british" transform="translate(67.26 703.22)">
+        <tspan x="0" y="0">San Fancisco</tspan>
+    </text>
+    </a>
+    <circle cx="144.45" cy="700.45" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-san-antonio/" target="_blank">
+    <text class="cls-35 british" transform="translate(707.18 967.44)">
+        <tspan x="0" y="0">San Antonio</tspan>
+        
+    </text>
+    </a>
+    <circle cx="776.09" cy="964.67" r="2.77" />
+     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-grand-prairie/" target="_blank">
+    <text class="cls-33 british" transform="translate(793.2 854.65)">
+        <tspan x="0" y="0">Grand Prairie</tspan>
+        
+    </text>
+    </a>
+    <circle cx="841.26" cy="851.59" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-denton/" target="_blank">
+    <text class="cls-33 british" transform="translate(806.12 845.77)">
+        <tspan x="0" y="0">Denton</tspan>  
+    </text>
+    </a>
+    <circle cx="835.44" cy="845.77" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-frisco/" target="_blank">
+    <text class="british"
+        transform="translate(817.49 841.56)"
+        style="
+            fill: #606060;
+            font-family: SFProDisplay-Regular, 'SF Pro Display';
+            font-size: 8.12px;
+        "
+    >
+        <tspan x="0" y="0">Frisco</tspan>
+    </text>
+    </a>
+    <circle class="cls-11" cx="842.56" cy="846.43" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-washington-dc/" target="_blank">
+    <text class="cls-35 british" transform="translate(1324 655.99)">
+        <tspan x="0" y="0" style="letter-spacing: -0.07em">Washington D.C</tspan>
+        
+    </text>
+    </a>
+    <circle cx="1410.88" cy="658.76" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-philadelphia/" target="_blank">
+    <text class="cls-35 british" transform="translate(1396.51 618.92)">
+        <tspan x="0" y="0">Philadelphia</tspan>
+    </text>
+    </a>
+    <circle cx="1464.27" cy="621.69" r="2.77" />
+     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-baltimore/" target="_blank">
+    <text class="cls-35 british" transform="translate(1421.93 650.71)">
+        <tspan x="0" y="0">Baltimore,Maryland</tspan>
+        
+    </text>
+    </a>
+    <circle cx="1416.45" cy="647.93" r="2.77" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-irving/" target="_blank">
+    <text class="cls-14 british" transform="rotate(-69.8 1015.388 -185.13)">
+        <tspan x="0" y="0">Irving</tspan>
+    </text>
+    </a>
+    <circle class="cls-11" cx="838.76" cy="848.2" r="2.77" />
+    <path class="cls-61" d="m838.49 831.73.02.99" />
+    <path class="cls-60" d="m838.54 834.6.19 10.3" />
+    <path class="cls-61" d="m838.74 845.84.02 1" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-mckinney/" target="_blank">
+    <text class="cls-14 british" transform="rotate(-16.74 3247.922 -2519.358)">
+        <tspan x="0" y="0">McKinney</tspan>
+    </text>
+    </a>
+    <circle class="cls-11" cx="850.28" cy="838.84" r="2.77" />
+    <path class="cls-61" d="m863.28 828.72-.79.61" />
+    <path class="cls-60" d="m861.02 830.49-8.13 6.34" />
+    <path class="cls-61" d="m852.15 837.4-.78.62" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-plano/" target="_blank">
+    <text class="cls-34 british" transform="rotate(-69.8 1031.735 -187.376)">
+        <tspan x="0" y="0">Plano</tspan>
+    </text>
+    </a>
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-richardson/" target="_blank">
+    <text class="cls-34 british" transform="rotate(-69.8 1025.59 -186.495)">
+        <tspan x="0" y="0">Richardson</tspan>
+        
+    </text>
+    </a>
+    <circle cx="842.65" cy="843.19" r="2.77" />
+    <text
+        transform="translate(1330.26 253.6)"
+        style="
+            fill: #606060;
+            font-family: SFProDisplay-Bold, 'SF Pro Display';
+            font-weight: 700;
+            font-size: 63.16px;
+        "
+    >
+        <tspan x="0" y="0">USA</tspan>
+
+    </text>
+</svg>
+</div>
