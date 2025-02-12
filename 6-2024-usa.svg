@@ -608,13 +608,13 @@
         <tspan class="cls-43 british" x="0" y="0">Kansas City</tspan>
     </text>
     </a>
-    <circle cx="921.51" cy="662.87" r="2.77" />
+    <circle cx="921.51" cy="670.87" r="2.77" />
     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-minneapolis/" target="_blank">
     <text class="cls-35 british" transform="translate(903.39 441.88)">
         <tspan x="0" y="0">Minneapolis</tspan>
     </text>
     </a>
-    <circle cx="969.85" cy="443.6" r="2.77" />
+    <circle cx="969.85" cy="450.6" r="2.77" />
     <a href="https://sirixmonitoring.com/live-remote-video-monitoring-phoenix/" target="_blank">
     <text class="cls-35 british" transform="translate(433.9 854.62)">
         <tspan x="0" y="0">Phoenix</tspan>
@@ -650,7 +650,7 @@
         <tspan x="0" y="0">Cincinnati</tspan>
     </text>
     </a>
-    <circle cx="1202.23" cy="650.53" r="2.77" />
+    <circle cx="1200.23" cy="650.53" r="2.77" />
     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-pittsburgh/" target="_blank">
     <text class="cls-35 british" transform="translate(1324.89 607.09)">
         <tspan x="0" y="0">Pittsburgh</tspan>
@@ -728,7 +728,7 @@
         <tspan x="0" y="0">Detroit</tspan>
     </text>
     </a>
-    <circle cx="1241.16" cy="535.5" r="2.77" />
+    <circle cx="1245.16" cy="535.5" r="2.77" />
     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-st-louis/" target="_blank">
     <text class="cls-35 british" transform="translate(990.7 669.98)">
         <tspan x="0" y="0">St. Louis</tspan>
@@ -747,25 +747,37 @@
     </text>
     </a>
     <circle cx="296.81" cy="873.55" r="2.77" />
-    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-long-beach/" target="_blank">
+    <!-- <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-long-beach/" target="_blank">
     <text class="cls-35 british" transform="translate(133.09 799.12)">
         <tspan class="cls-43" x="0" y="0">Long Beach</tspan>
     </text>
     </a>
-    <circle cx="200.55" cy="791.48" r="2.77" />
-     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-los-angeles/" target="_blank">
-    <text class="cls-35 british" transform="translate(212.9 776.54)">
-        <tspan class="cls-43" x="0" y="0">Los Angeles</tspan>
-    </text>
-    </a>
-    <circle cx="210.96" cy="785.93" r="2.77" />
-    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-las-vegas/" target="_blank">
-    <text class="cls-35 british" transform="translate(323.63 746.59)">
-        <tspan x="0" y="0">Las Vegas</tspan>
-        
-    </text>
-    </a>
-    <circle cx="356.9" cy="755.99" r="2.77" />
+    <circle cx="200.55" cy="791.48" r="2.77" /> -->
+
+
+     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-long-beach/" target="_blank">
+    <g>
+    <text class="cls-35 british" transform="translate(195.34 839.8)"><tspan
+                class="cls-43"
+                x="0"
+                y="0"
+            >L</tspan><tspan x="6.2" y="0">ong Beach</tspan></text>
+    <circle cx="262.8" cy="832.16" r="2.77" />
+  </g>
+  </a>
+  <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-los-angeles/" target="_blank">
+  <g>
+    <text class="cls-35 british" transform="translate(275.15 817.22)"><tspan
+                class="cls-43"
+                x="0"
+                y="0"
+            >L</tspan><tspan x="6.2" y="0">os Angeles</tspan></text>
+    <circle cx="273.21" cy="826.61" r="2.77" />
+  </g>
+  </a>
+
+
+    <!-- <circle cx="356.9" cy="755.99" r="2.77" /> -->
     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-salt-lake-city/" target="_blank">
     <text class="cls-35 british" transform="translate(411.16 613.81)">
         <tspan x="0" y="0">Salt Lake City</tspan>
@@ -862,7 +874,7 @@
         <tspan x="0" y="0">Philadelphia</tspan>
     </text>
     </a>
-    <circle cx="1464.27" cy="621.69" r="2.77" />
+    <circle cx="1464.27" cy="622.69" r="2.77" />
      <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-baltimore/" target="_blank">
     <text class="cls-35 british" transform="translate(1421.93 650.71)">
         <tspan x="0" y="0">Baltimore,Maryland</tspan>
