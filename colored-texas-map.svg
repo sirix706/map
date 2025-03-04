@@ -1,0 +1,369 @@
+<svg
+    id="Layer_1"
+    data-name="Layer 1"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 1760.77 1370.38"
+>
+    <defs>
+        <style>.cls-40,
+.cls-4,
+.cls-5 {
+    fill: #606060
+}
+
+.cls-6 {
+    letter-spacing: 0
+}
+ .cls-43,
+.cls-44,
+.cls-45,
+.cls-41,
+.cls-42 {
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round
+}
+
+.cls-43,
+.cls-45,
+.cls-41,
+.cls-42 {
+    stroke: #1a1a1a
+}
+
+.cls-18,
+.cls-19,
+.cls-20,
+.cls-4 {
+    font-family: SFProDisplay-Regular, &quot;
+    SF Pro Display&quot;
+}
+
+.cls-19 {
+    font-size: 27.44px
+}
+
+.cls-42 {
+    stroke-dasharray: 0 0 2.01 2.01
+}
+
+.cls-40 {
+    stroke: #c6c6c6;
+    stroke-miterlimit: 10
+}
+
+.cls-27 {
+    letter-spacing: -.01em
+}
+
+.cls-18 {
+    font-size: 41.13px
+}
+
+.cls-44 {
+    stroke: #606060
+}
+
+.cls-4 {
+    font-size: 27.44px
+}
+
+.cls-43 {
+    stroke-dasharray: 0 0 2 2
+}
+
+.cls-29 {
+    fill: #1a1a1a
+}
+
+.cls-20 {
+    font-size: 27.44px
+}
+
+.cls-45 {
+    stroke-dasharray: 0 0 2.01 2.01
+}
+.antonio {
+          fill: black!important;
+         
+          transition: font-size 0.5s ease-in-out, fill 0.5s ease-in-out;
+          }
+
+.antonio:hover {
+                  fill:rgb(3, 167, 137) !important;
+                  font-size: 42px !important;
+                  font-weight:400 !important;
+
+                }
+.austin {
+          fill: black!important;
+         
+          transition: font-size 0.5s ease-in-out, fill 0.5s ease-in-out;
+          }
+
+.austin:hover {
+                  fill:rgb(3, 167, 137) !important;
+                  font-size: 44px !important;
+                  font-weight:400 !important;
+
+                }
+                .denton {
+          fill: black!important;
+         
+          transition: font-size 0.5s ease-in-out, fill 0.5s ease-in-out;
+          }
+
+.denton:hover {
+                  fill:rgb(3, 167, 137) !important;
+                  font-size: 30px !important;
+                  font-weight:400 !important;
+
+                }
+.svg-container {
+                    width: 100%;
+                    max-width: 1500px;  /* Adjust max width for larger screens */
+                    margin: auto;
+                }
+
+                .responsive-svg {
+                    width: 100%;
+                    height: auto;
+                }
+
+                <!-- @media (max-width: 768px) {
+                    .responsive-svg {
+                        max-height: 400px;  /* Adjust for tablets */
+                    }
+                }
+
+                @media (max-width: 480px) {
+                    .responsive-svg {
+                        max-height: 300px;  /* Adjust for mobile screens */
+                    }
+                }                 -->
+                
+</style>
+    </defs>
+    <path
+        style="
+            stroke-linecap: round;
+            stroke-linejoin: round;
+            fill: #27527c;
+            stroke: #fff;
+        "
+        d="m1499.66 720.98-20.36 49.91-4.6 58.45-11.16 32.83-50.57 12.48-35.46 32.83-82.09 59.76-126.74 89.31-34.81 77.49 24.3 126.75-13.79 3.94-8.53 7.88-28.24-19.05-59.76-8.53-74.87-32.18-11.82-38.09-13.79-17.73-5.25-26.93-9.2-42.02-16.42-5.92-9.84-11.82-49.91-64.35-44.66-96.54-63.7-55.82-80.12-9.19-33.49 16.42-19.05 55.16-23.64 24.3-15.1-3.95-115.58-73.55-43.34-104.41-84.72-73.55-40.72-38.75-17.72-10.5-13.8-24.96h338.86l1.97-512.88h286.98v222.62l39.4 21.01 22.33-6.57 15.76 26.27 101.14 7.88 30.86 26.93 74.21-3.28 54.51 17.73 109.01-19.05 72.24 32.84 41.37 12.47.66 61.08-.66 107.04 1.97 7.88z"
+    />
+    <text
+        transform="translate(819.1 685.19)"
+        style="
+            font-family: SFProDisplay-Bold, 'SF Pro Display';
+            font-size: 77.31px;
+            font-weight: 700;
+            fill:rgb(255, 255, 255);
+        "
+    >
+        <tspan x="0" y="0" style="letter-spacing: -0.11em">T</tspan>
+        <tspan x="37.64" y="0" style="letter-spacing: 0">ex</tspan>
+        <tspan x="120.23" y="0">as</tspan>
+    </text>
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-arlington/" target="_blank">
+    <text class="cls-18 austin" transform="translate(1146.6 506.34)">
+        <tspan x="0" y="0">Arlington</tspan>
+        
+    </text>
+    </a>
+    <circle cx="1136.55" cy="473.98" r="9.38" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-fort-worth/" target="_blank">
+    <text class="cls-18 austin" transform="translate(920.62 506.34)">
+       <tspan x="0" y="0" style="letter-spacing: -0.02em">Fort Worth</tspan>
+    </text>
+    </a>
+    <circle cx="1108.67" cy="473.98" r="9.38" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-dallas/" target="_blank">
+    <text class="cls-20 denton" transform="translate(1228.48 462.93)">
+        <tspan x="0" y="0">Dallas</tspan>
+    </text>
+    </a>
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-garland/" target="_blank">
+    <text class="cls-20 denton" transform="translate(1311.65 444.24)">
+        <tspan x="0" y="0">Garland</tspan>
+    </text>
+    </a>
+    <circle cx="1184.49" cy="451.09" r="9.38" />
+    <circle cx="1162.83" cy="438.37" r="9.38" />
+    <circle cx="1140.03" cy="441.72" r="9.38" />
+     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-austin/" target="_blank">
+    <text class="cls-18 austin" transform="translate(968.17 791.24)">
+        
+        <tspan class="cls-48 austin" x="0" y="0">Austin</tspan>
+    </text>
+    </a>
+    <circle cx="944.58" cy="776.15" r="9.38" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-houston/" target="_blank">
+    <text class="cls-18 austin" transform="translate(1287.54 816.88)">
+        <tspan x="0" y="0">Houston</tspan>
+        
+    </text>
+    </a>
+    <circle cx="1382.05" cy="843.21" r="9.38" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-san-antonio/" target="_blank">
+    <text class="cls-18 antonio" transform="translate(665.81 844.11)">
+         <tspan x="0" y="0">San Antonio</tspan>
+    </text>
+    </a>
+
+    <circle cx="898.71" cy="834.74" r="9.38" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-grand-prairie/" target="_blank">
+    <text class="cls-20 denton" transform="translate(882.44 462.93)">
+        <tspan x="0" y="0">Grand Prairie</tspan>
+        
+    </text>
+    </a>
+    <circle cx="1118.95" cy="452.6" r="9.38" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-denton/" target="_blank">
+    <text class="cls-19 denton" transform="translate(1000.18 385.93)">
+        <tspan x="0" y="0">Denton</tspan>
+        
+    </text>
+    </a>
+    <circle cx="1099.29" cy="432.94" r="9.38" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-frisco/" target="_blank">
+    <text class="cls-4 denton" transform="translate(1221.47 409.59)">
+        <tspan x="0" y="0">Frisco</tspan>
+    </text>
+    </a>
+    <circle class="cls-3" cx="1123.33" cy="435.16" r="9.38" />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-irving/" target="_blank">
+    <text class="denton"
+        transform="rotate(1.18 -16572.356 51202.47)"
+        style="
+            fill: #606060;
+            font-family: SFProDisplay-Regular, 'SF Pro Display';
+            font-size: 27.44px;
+        "
+    >
+        <tspan x="0" y="0">Irving</tspan>
+    </text>
+    </a>
+    <circle class="cls-3" cx="1110.49" cy="441.14" r="9.38" />
+    <path class="cls-44" d="M1110.49 364.67v1" />
+    <path
+        style="
+            fill: none;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+            stroke: #606060;
+            stroke-dasharray: 0 0 2 2;
+        "
+        d="M1110.49 367.67v66.86"
+    />
+    <path class="cls-44" d="M1110.49 435.53v1" />
+    <path
+        class="cls-5"
+        d="m1106.4 367.99.74.68 3.35-3.61 3.36 3.61.73-.68-4.09-4.4z"
+    />
+    <path class="cls-41" d="M1123.63 418.71v-1" />
+    <path class="cls-45" d="M1123.63 415.7V308.03" />
+    <path class="cls-41" d="M1123.63 307.02v-1h-1" />
+    <path class="cls-42" d="M1120.62 306.02h-7.04" />
+    <path class="cls-41" d="M1112.58 306.02h-1" />
+    <path
+        class="cls-29"
+        d="m1114.89 301.93.68.73-3.61 3.36 3.61 3.36-.68.73-4.4-4.09z"
+    />
+    <path class="cls-41" d="M1099.5 438.37v-1" />
+    <path
+        style="
+            fill: none;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+            stroke: #1a1a1a;
+            stroke-dasharray: 0 0 2.01 2.01;
+        "
+        d="M1099.5 435.36v-55.38"
+    />
+    <path class="cls-41" d="M1099.5 378.97v-1h-1" />
+    <path class="cls-42" d="M1096.49 377.97h-7.03" />
+    <path class="cls-41" d="M1088.45 377.97h-1" />
+    <path
+        class="cls-29"
+        d="m1090.76 373.88.69.73-3.61 3.36 3.61 3.36-.69.73-4.39-4.09z"
+    />
+    <path class="cls-41" d="M1140.03 435.16v-1" />
+    <path class="cls-45" d="M1140.03 432.15V324.48" />
+    <path class="cls-41" d="M1140.03 323.47v-1h1" />
+    <path class="cls-42" d="M1143.04 322.47h7.04" />
+    <path class="cls-41" d="M1151.08 322.47h1" />
+    <path
+        class="cls-29"
+        d="m1148.77 326.56-.69-.73 3.62-3.36-3.62-3.36.69-.73 4.39 4.09z"
+    />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-mckinney/" target="_blank">
+    <text class="cls-4 denton" transform="translate(1196.62 372.76)">
+        <tspan x="0" y="0">McKinney</tspan>
+    </text>
+    </a>
+    <circle class="cls-5" cx="1149.41" cy="409.5" r="9.38" />
+    <path class="cls-44" d="m1192.51 375.97-.79.62" />
+    <path
+        style="
+            fill: none;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+            stroke-dasharray: 0 0 1.92 1.92;
+            stroke: #606060;
+        "
+        d="m1190.2 377.77-35.56 27.75"
+    />
+    <path class="cls-44" d="m1153.88 406.11-.78.62" />
+    <path
+        class="cls-5"
+        d="m1187.38 374.78-.09 1 4.91.43-.78 4.86.99.16.95-5.93z"
+    />
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-plano/" target="_blank">
+    <text class="cls-19 denton" transform="translate(1158.05 333.09)">
+        <tspan x="0" y="0">Plano</tspan>
+    </text>
+    </a>
+    <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-richardson/" target="_blank">
+    <text class="cls-19 denton" transform="translate(975.68 310.06)">
+         <tspan x="0" y="0">Richardson</tspan>
+        
+    </text>
+    </a>
+    <circle
+        cx="1123.63"
+        cy="424.19"
+        r="9.38"
+        style="stroke: #c6c6c6; stroke-miterlimit: 10"
+    />
+    <path class="cls-43" d="M1164.7 438.37h139.85" />
+    <path
+        class="cls-29"
+        d="m1301.23 442.46-.68-.73 3.61-3.36-3.61-3.36.68-.73 4.4 4.09z"
+    />
+    <path
+        style="
+            fill: none;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+            stroke: #606060;
+            stroke-dasharray: 0 0 2 2;
+        "
+        d="M1215.58 400.06h-11.72v23.5h-67.31l-8.22 16.09-7.37-1.28"
+    />
+    <path
+        class="cls-5"
+        d="m1212.27 395.97-.68.73 3.61 3.36-3.61 3.36.68.73 4.4-4.09z"
+    />
+    <path class="cls-43" d="M1191.96 454.05h30.3" />
+    <path
+        class="cls-29"
+        d="m1218.95 458.14-.68-.74 3.61-3.35-3.61-3.36.68-.73 4.4 4.09z"
+    />
+    <path class="cls-43" d="M1033.53 457.19H1097l13.49-3.14" />
+    <path
+        class="cls-29"
+        d="m1036.84 461.28.69-.73-3.62-3.36 3.62-3.36-.69-.73-4.39 4.09z"
+    />
+</svg>
