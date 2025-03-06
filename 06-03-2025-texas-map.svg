@@ -84,7 +84,7 @@
     stroke-dasharray: 0 0 2.01 2.01
 }
 .antonio {
-          fill: black!important;
+         fill: #ffffff!important;
          
           transition: font-size 0.5s ease-in-out, fill 0.5s ease-in-out;
           }
@@ -100,6 +100,9 @@
          
           transition: font-size 0.5s ease-in-out, fill 0.5s ease-in-out;
           }
+.austin_circle{
+    fill: #ffffff!important;
+}
 
 .austin:hover {
                   fill:rgb(3, 167, 137) !important;
@@ -172,13 +175,13 @@
         
     </text>
     </a>
-    <circle cx="1136.55" cy="473.98" r="9.38" />
+    <circle cx="1136.55" cy="473.98" r="9.38" class="austin_circle" />
     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-fort-worth/" target="_blank">
     <text class="cls-18 austin" transform="translate(920.62 506.34)">
        <tspan x="0" y="0" style="letter-spacing: -0.02em">Fort Worth</tspan>
     </text>
     </a>
-    <circle cx="1108.67" cy="473.98" r="9.38" />
+    <circle cx="1108.67" cy="473.98" r="9.38" class="austin_circle" />
     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-dallas/" target="_blank">
     <text class="cls-20 denton" transform="translate(1228.48 462.93)">
         <tspan x="0" y="0">Dallas</tspan>
@@ -198,21 +201,21 @@
         <tspan class="cls-48 austin" x="0" y="0">Austin</tspan>
     </text>
     </a>
-    <circle cx="944.58" cy="776.15" r="9.38" />
+    <circle cx="944.58" cy="776.15" r="9.38" class="austin_circle" />
     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-houston/" target="_blank">
     <text class="cls-18 austin" transform="translate(1287.54 816.88)">
         <tspan x="0" y="0">Houston</tspan>
         
     </text>
     </a>
-    <circle cx="1382.05" cy="843.21" r="9.38" />
+    <circle cx="1382.05" cy="843.21" r="9.38" class="austin_circle" />
     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-san-antonio/" target="_blank">
     <text class="cls-18 antonio" transform="translate(665.81 844.11)">
          <tspan x="0" y="0">San Antonio</tspan>
     </text>
     </a>
 
-    <circle cx="898.71" cy="834.74" r="9.38" />
+    <circle cx="898.71" cy="834.74" r="9.38" class="austin_circle" />
     <a href="https://sirixmonitoring.com/locations/live-remote-video-monitoring-grand-prairie/" target="_blank">
     <text class="cls-20 denton" transform="translate(882.44 462.93)">
         <tspan x="0" y="0">Grand Prairie</tspan>
